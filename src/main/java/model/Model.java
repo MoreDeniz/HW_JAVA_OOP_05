@@ -1,2 +1,5 @@
-package model;public interface Model {
+package model;
+
+public interface Model {
+    void setNote(String text);
 }
