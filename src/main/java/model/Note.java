@@ -1,9 +1,7 @@
-package notebook;
-
-import java.util.ArrayList;
+package model;
 
 public class Note{
-    protected String note;
+    private String note;
 
     public Note(){
         this.note = note;
